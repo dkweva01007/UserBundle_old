@@ -2,7 +2,7 @@
     "name": "DK/User_oauthBundle",
     "license": "MARIE-REINE Johann",
     "type": "Symfony Bundle",
-    "description" : "Implement à UserBundle with OauthBundle",
+    "description" : "Implement a UserBundle with OauthBundle",
     "keywords": ["User management", "oauth2", "server"],
     "authors" : [{
         "name" : "MARIE-REINE",
