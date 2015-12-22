@@ -1,5 +1,5 @@
 {
-    "name": "DK/User_oauthBundle",
+    "name": "DK/UserBundle",
     "license": "MARIE-REINE Johann",
     "type": "Symfony Bundle",
     "description" : "Implement a UserBundle with OauthBundle",
